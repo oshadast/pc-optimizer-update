@@ -1,2 +1,2 @@
 2.0.0
-https://github.com/oshadast/pc-optimizer-update/releases/download/v2.0.0/PCOptimizer_v2.0.0.zip
+https://github.com/oshadast/pc-optimizer-update/releases/download/v2.0.0/pc.optimizer.zip
