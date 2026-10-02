@@ -115,7 +115,7 @@ Upgrade to **NEXO OPTIMIZER PRO** and unlock the full potential of your PC.
 
 | Dashboard | Clean Tab |
 | :---: | :---: |
-| ![Dashboard](https://via.placeholder.com/400x250/1a1a2e/00d9ff?text=Dashboard+Screenshot) | ![Clean](https://via.placeholder.com/400x250/1a1a2e/ff006e?text=Clean+Tab+Screenshot) |
+| ![Dashboard]([https://via.placeholder.com/400x250/1a1a2e/00d9ff?text=Dashboard+Screenshot](https://ibb.co/HLH03N6v)) | ![Clean](https://via.placeholder.com/400x250/1a1a2e/ff006e?text=Clean+Tab+Screenshot) |
 
 | Gaming Tab (PRO) | Tools Tab |
 | :---: | :---: |
