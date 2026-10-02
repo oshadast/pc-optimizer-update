@@ -1,299 +1,160 @@
 <div align="center">
 
-# ⚡ PC OPTIMIZER
+# ⚡ NEXO OPTIMIZER
+### **PRO EDITION • ULTIMATE PERFORMANCE (2026)**
 
-### 🚀 PRO EDITION • ULTIMATE PERFORMANCE
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge)](https://github.com/oshadast/pc-optimizer-update/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6.svg?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Telegram](https://img.shields.io/badge/Telegram-@unclounisback-26A5E4.svg?style=for-the-badge&logo=telegram)](https://t.me/unclounisback)
 
-[![Version](https://img.shields.io/badge/version-2.0.0-00d9ff?style=for-the-badge)](https://github.com/oshadast/pc-optimizer-update/releases)
-[![License](https://img.shields.io/badge/license-MIT-06ffa5?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows-7b2cbf?style=for-the-badge)](https://www.microsoft.com/windows)
-[![.NET](https://img.shields.io/badge/.NET-4.8-ff006e?style=for-the-badge)](https://dotnet.microsoft.com/)
+**A Powerful, All-in-One PC Optimization Tool to Boost Performance, Clean Junk, and Optimize Windows.**
 
-**🎯 Boost • Clean • Optimize • Game 🎮**
-
-[📥 Download](https://github.com/oshadast/pc-optimizer-update/releases) • [🐛 Report Bug](https://github.com/oshadast/pc-optimizer-update/issues) • [💡 Request Feature](https://github.com/oshadast/pc-optimizer-update/issues)
+[Features](#-features) • [Pricing](#-pricing) • [Installation](#-installation) • [Support](#-support)
 
 </div>
 
 ---
 
-## 🌟 What is PC Optimizer?
+## 📖 About NEXO OPTIMIZER
 
-**PC Optimizer** is a powerful all-in-one Windows optimization tool built with **C#** and **Guna UI2**. It helps you clean, optimize, and boost your PC performance with just a few clicks! 🚀
+**NEXO OPTIMIZER** is a comprehensive system utility designed to enhance your PC's performance, clean up unnecessary files, and optimize system settings for Gaming, Editing, and Daily Use. Built with a modern, user-friendly interface, it provides both basic and advanced optimization tools in one place.
 
-> 💡 **100% Local** — No data collection. No cloud. Your PC, your rules.
+> ⚠️ **Note:** This tool requires **Administrator Privileges** to function correctly as it modifies system settings, registry, and services.
 
 ---
 
 ## ✨ Features
 
-### 📊 Live System Monitor
-- 🖥️ **Real-time CPU usage**
-- 💾 **RAM monitoring**
-- 💿 **Disk space tracker**
-- 🎮 **GPU load**
-- 🌐 **Network speed (↑↓)**
-- ⏱️ **System uptime**
-- ⚙️ **Process counter**
-- 🌡️ **CPU temperature**
+### 📊 Dashboard
+- Real-time monitoring of **CPU, RAM, Disk, and GPU** usage.
+- Live **Network Speed** and **System Uptime**.
+- **One-Click Boost** for instant performance improvement.
 
-### 🧹 Cleaning Tools
-- 🧹 **Temp files cleaner**
-- ♻️ **Recycle Bin emptier**
-- 🌐 **Browser cache cleaner** (Chrome, Edge, Firefox, Brave, Opera)
-- 📦 **Windows Update cache cleaner**
-- 💿 **Disk Cleanup integration**
-- 📋 **Event log wiper**
-- ⚡ **One-click CLEAN ALL**
+### 🧹 Clean (24 Tools)
+- Clean **Temp Files, Browser Cache, Recycle Bin**, and **Windows Logs**.
+- Advanced cleaning: **Prefetch, Thumbnails, Font Cache, Delivery Optimization**.
+- **Disk Cleanup** and **Event Logs** clearing.
 
-### ⚡ Optimization
-- ⚡ **RAM optimizer**
-- 🔧 **Disk defrag / TRIM**
-- 🌐 **Network reset**
-- 🔄 **DNS flush**
-- 🚀 **One-Click BOOST**
-
-### 🎮 Gaming Mode
-- 🎮 **Windows Game Mode toggle**
-- ⚡ **High Performance power plan**
-- 🚫 **Disable Game Bar**
-- 🚫 **Disable Game DVR**
-- 🧹 **Close background apps**
-- 🎯 **GPU priority boost**
-- 📡 **Nagle's Algorithm disable** (lower ping)
-- 🎮 **BOOST GAME** — All-in-one gaming optimizer
+### ⚡ Optimize
+- **RAM Optimizer:** Free up memory instantly.
+- **SSD TRIM:** Optimize SSD performance.
+- **Network Reset:** Fix network issues and flush DNS.
+- **Disable Telemetry:** Stop Windows tracking.
+- **Disable Hibernation:** Free up disk space.
+- **Visual Effects:** Set to best performance.
 
 ### 🛠️ Tools
-- 🚀 **Startup apps manager**
-- ℹ️ **System information** (5 tabs)
-- 📊 **Task Manager shortcut**
-- ⚙️ **Control Panel shortcut**
-- 🔄 **Windows Update Enable/Disable**
+- **Windows Update Control:** Block or Unblock Windows Updates.
+- **Defender Control:** Block or Unblock Windows Defender.
+- System Info, Task Manager, Control Panel, Registry Editor, Services, Device Manager.
+- **SFC Scan** and **DISM Repair**.
 
 ### 🗑️ Remove Bloatware
-- 🗑️ **Cortana** uninstaller
-- 🎮 **Xbox apps** remover
-- ☁️ **OneDrive** uninstaller
-- 🧹 **28+ Bloatware** remover
-- 🔍 **Bing search** disabler
-- 📸 **Camera app** remover
-- 📰 **Widgets/News** remover
-- ♻️ **Restore Apps** feature
-
-### 🎨 Beautiful UI
-- 🌈 **Live animated background**
-- ⏰ **Real-time clock widget**
-- 🔔 **Modern notification system**
-- 🎨 **Glass morphism design**
-- 🌙 **Dark / Light themes**
-- 🎬 **Splash screen with progress**
-- 💫 **Smooth animations**
-
-### 🔄 Auto-Update System
-- 🌐 **Online update checker**
-- 📥 **One-click download**
-- 🔧 **Auto-install + restart**
-- 📢 **Beautiful update notifications**
-
-### ℹ️ About Tab
-- 📜 **License Agreement** (MIT)
-- 🔒 **Privacy Policy**
-- 📄 **Terms & Conditions**
-- 📖 **How to Use guide**
-- 📧 **Email Developer**
-- ✉️ **Send Feedback**
-- 💖 **Donate / Support**
-- 🔄 **Check for Updates**
+- Remove **Cortana, Xbox, OneDrive**, and 20+ Windows default apps.
+- Disable **Bing Search** and **Widgets**.
 
 ---
 
-## 📸 Screenshots
+## 🏆 Free vs PRO (Paid) Comparison
+
+NEXO OPTIMIZER comes in two versions to suit your needs. Upgrade to **PRO** for the ultimate gaming and performance experience!
+
+| Feature | **Free Version** | **PRO Version (Paid)** |
+| :--- | :---: | :---: |
+| **Basic Cleaning & Optimization** | ✅ | ✅ |
+| **System Monitoring (CPU/RAM/Disk)** | ✅ | ✅ |
+| **Bloatware Removal** | ✅ | ✅ |
+| **Tools (Task Manager, Regedit, etc.)** | ✅ | ✅ |
+| **Customer Support** | ❌ | ✅ **24/7 Priority Support** |
+| **Gaming Optimizations** | ⚠️ Limited | ✅ **Full Suite** |
+| **FPS Boost (High End & Low End)** | ❌ | ✅ **Included** |
+| **Aim Lock / Aim Assist** | ❌ | ✅ **Included** |
+| **Game Emulator Optimizations** | ❌ | ✅ **Included** |
+| **Free Fire / PUBG High FPS Boost** | ❌ | ✅ **Included** |
+| **100% Safe (No 3rd Party Tools)** | ✅ | ✅ **Guaranteed** |
+| **Exclusive PRO Features** | ❌ | ✅ **Unlocked** |
+
+---
+
+## 💰 Pricing (PRO Edition)
+
+Upgrade to **NEXO OPTIMIZER PRO** and unlock the full potential of your PC.
+
+| Plan | Price (USD) | Price (LKR) | Duration |
+| :--- | :---: | :---: | :---: |
+| **1 Day Free Trial** | **$0.00** | **Free** | 1 Day |
+| **14 Days Access** | **$2.00** | **Rs. 600** | 14 Days |
+| **30 Days Access** | **$3.00** | **Rs. 900** | 30 Days |
+| **Lifetime Access (Nexo Update Only)** | **$5.00** | **Rs. 1500** | Lifetime |
+
+> 💡 **Note:** The **$5 (Rs. 1500)** plan is a **Lifetime License** for the current version. Future major updates may require a separate purchase.
+
+### 🔥 PRO Exclusive Gaming Features:
+- 🎮 **Full Game Optimization:** Free Fire, PUBG, and other popular titles.
+- 🚀 **High FPS Boost:** Optimized for both High-End and Low-End PCs.
+- 🎯 **Aim Lock / Aim Assist:** Enhanced aiming precision (No 3rd Party Tools).
+- 🕹️ **Emulator Support:** Dedicated optimizations for Android emulators (BlueStacks, LDPlayer, etc.).
+- 🔒 **100% Safe:** No third-party injections or risky modifications.
+
+---
+
+## 🚀 Installation
+
+1. **Download** the latest `NEXO_Optimizer_v1.0.0.zip` from the [**Releases**](https://github.com/oshadast/pc-optimizer-update/releases) page.
+2. **Extract** the ZIP file to a folder of your choice.
+3. **Run** `NEXO Optimizer.exe` as **Administrator**.
+   - *Right-click the file -> Run as Administrator*
+4. Enjoy a faster, cleaner PC! 🚀
+
+---
+
+## 🖼️ Screenshots
 
 <div align="center">
 
-### 🖥️ Dashboard
-![Dashboard](screenshots/dashboard.png)
+| Dashboard | Clean Tab |
+| :---: | :---: |
+| ![Dashboard](https://via.placeholder.com/400x250/1a1a2e/00d9ff?text=Dashboard+Screenshot) | ![Clean](https://via.placeholder.com/400x250/1a1a2e/ff006e?text=Clean+Tab+Screenshot) |
 
-### 🧹 Clean & Optimize
-![Clean](screenshots/clean.png)
+| Gaming Tab (PRO) | Tools Tab |
+| :---: | :---: |
+| ![Gaming](https://via.placeholder.com/400x250/1a1a2e/06ffa5?text=Gaming+Tab+PRO) | ![Tools](https://via.placeholder.com/400x250/1a1a2e/ffb700?text=Tools+Tab+Screenshot) |
 
-### 🎮 Gaming Mode
-![Gaming](screenshots/gaming.png)
-
-### ℹ️ About Tab
-![About](screenshots/about.png)
+*(Replace the placeholder images with actual screenshots of your app)*
 
 </div>
 
-> 📸 **Note:** Screenshots coming soon!
+---
+
+## ⚠️ Important Notes
+
+- **Admin Rights Required:** Some features (Update Blocking, Defender Control, Registry changes) require Administrator privileges.
+- **System Restore:** Highly recommended to create a System Restore Point before making major changes.
+- **Antivirus Warning:** Some antivirus software may flag optimization tools as "Potentially Unwanted Programs" (PUP). This is a **false positive**. Please add an exception if needed.
 
 ---
 
-## 📥 Installation
+## 📞 Support & Contact
 
-### 🎯 Option 1: Portable (Recommended)
+- **Developer:** NEXO Team
+- **Email:** [updating@gmail.com](mailto:updating@gmail.com)
+- **Telegram:** [@unclounisback](https://t.me/unclounisback)
 
-1. **📥 Download** the latest `PCOptimizer_vX.X.X.zip` from [Releases](https://github.com/oshadast/pc-optimizer-update/releases)
-2. **📂 Extract** the ZIP file anywhere
-3. **▶️ Run** `pc_optimizer.exe`
-4. **✅ Done!** No installation needed
-
-### 🔧 Requirements
-
-| Requirement | Version |
-|-------------|---------|
-| 🪟 **Windows** | 10 / 11 |
-| 💻 **.NET Framework** | 4.8 or higher |
-| 🎯 **RAM** | 2 GB minimum |
-| 💾 **Disk Space** | 50 MB |
-| 🔑 **Admin Rights** | Required for some features |
-
----
-
-## 🚀 How to Use
-
-### 📊 Dashboard
-- View **live system stats**
-- Click **⚡ ONE-CLICK BOOST** for instant optimization
-
-### 🧹 Clean Tab
-- **Clean Temp Files** — Remove temporary files
-- **Empty Recycle Bin** — Permanent deletion
-- **Browser Cache** — Clear all browsers
-- **Update Cache** — Windows update cleanup
-- **Disk Cleanup** — Launch Windows tool
-- **Event Logs** — Wipe event logs
-- **⚡ CLEAN EVERYTHING** — All-in-one
-
-### ⚡ Optimize Tab
-- **Optimize RAM** — Free memory
-- **Defrag / TRIM** — Disk performance
-- **Network Reset** — Fix network issues
-- **Flush DNS** — Faster browsing
-
-### 🎮 Gaming Tab
-- **Game Mode** — Windows gaming mode
-- **High Performance** — Maximum power
-- **Disable Game Bar / DVR** — Less overhead
-- **Close Background** — Free resources
-- **GPU Priority** — Boost GPU
-- **Disable Nagle** — Lower ping
-- **🎮 BOOST GAME** — All-in-one
-
-### 🛠️ Tools Tab
-- **Startup Apps** — Manage autostart
-- **System Info** — Hardware details
-- **Task Manager** — Open Task Manager
-- **Control Panel** — Open Control Panel
-- **Enable/Disable Windows Update**
-
-### 🗑️ Remove Tab
-- **Uninstall Cortana, Xbox, OneDrive**
-- **Remove Bloatware** — 28+ apps
-- **Disable Bing, Camera, Widgets**
-- **Restore Apps** — Reinstall removed
-
-### ℹ️ About Tab
-- **Check for Updates**
-- **How to Use** guide
-- **License, Privacy, Terms**
-- **Email Developer**
-- **Send Feedback**
-- **Donate / Support**
-
----
-
-## 🔄 Auto-Update System
-
-PC Optimizer comes with a built-in **auto-update system**! 🎉
-
-### How it works:
-┌─────────────────────────────┐
-│ User clicks "Check Update" │
-└──────────────┬──────────────┘
-│
-▼
-┌─────────────────────────────┐
-│ Contacts update server │
-│ (GitHub raw URL) │
-└──────────────┬──────────────┘
-│
-┌──────┴──────┐
-│ │
-✅ New ❌ No
-Version Update
-│ │
-▼ ▼
-🎉 Notify ✅ "You're
-
-Download up to date!"
-### For Developers:
-
-**Release process:**
-
-1. Update `CURRENT_VERSION` in `UpdateChecker.cs`
-2. Build in **Release** mode
-3. Create ZIP: `PCOptimizer_vX.X.X.zip`
-4. Upload to GitHub Releases (tag: `vX.X.X`)
-5. Update `version.txt`:6. ✅ Done! Users will get updates automatically
-
----
-
-## 🛠️ Built With
-
-<div align="center">
-
-| Technology | Purpose |
-|-----------|---------|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | Programming Language |
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | Framework |
-| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Platform |
-| ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) | IDE |
-
-</div>
-
-### 📚 Libraries Used
-
-- **🎨 Guna UI2** — Modern UI controls
-- **🔧 Costura.Fody** — Single exe packaging
-- **⚙️ System.Management** — WMI access
-- **📊 PerformanceCounter** — Live monitoring
-
----
-
-## 📁 Project Structure
-
----
-
-## 🎯 Features Comparison
-
-| Feature | PC Optimizer | CCleaner | Advanced SystemCare |
-|---------|:------------:|:--------:|:-------------------:|
-| **Free & Open Source** | ✅ | ⚠️ | ⚠️ |
-| **Live System Monitor** | ✅ | ❌ | ⚠️ |
-| **Gaming Mode** | ✅ | ❌ | ⚠️ |
-| **Bloatware Remover** | ✅ | ❌ | ⚠️ |
-| **Auto-Update** | ✅ | ✅ | ✅ |
-| **No Ads** | ✅ | ⚠️ | ❌ |
-| **Portable** | ✅ | ✅ | ❌ |
-| **Beautiful UI** | ✅ | ⚠️ | ⚠️ |
-
----
-
-## ⚠️ Disclaimer
-
-> **PC Optimizer** is provided **"AS IS"** without warranty of any kind.
->
-> - ⚠️ **Use at your own risk**
-> - 💾 **Backup important data** before cleaning
-> - 🔑 **Admin rights required** for some features
-> - 🔄 **Restart recommended** after major changes
-> - ♻️ **Most changes are reversible** (Restore Apps)
->
-> **UNC Team** is not responsible for any damage caused by misuse.
+If you find this tool useful, please consider **donating** or **upgrading to PRO** via Telegram! 💖
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+**© 2026 NEXO Team. All rights reserved.**
+
+Made with ❤️ for the PC Community.
+
+</div>
