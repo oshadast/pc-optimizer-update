@@ -10,7 +10,7 @@
 
 **A Powerful, All-in-One PC Optimization Tool to Boost Performance, Clean Junk, and Optimize Windows.**
 
-[Features](#-features) • [Pricing](#-pricing) • [Installation](#-installation) • [Support](#-support)
+[Features](#-features) • [Pricing](#-pricing) • [Installation](#-installation) • [Screenshots](#-screenshots) • [Support](#-support)
 
 </div>
 
@@ -30,11 +30,14 @@
 - Real-time monitoring of **CPU, RAM, Disk, and GPU** usage.
 - Live **Network Speed** and **System Uptime**.
 - **One-Click Boost** for instant performance improvement.
+- **Process Count** and **CPU Temperature** display.
 
 ### 🧹 Clean (24 Tools)
 - Clean **Temp Files, Browser Cache, Recycle Bin**, and **Windows Logs**.
 - Advanced cleaning: **Prefetch, Thumbnails, Font Cache, Delivery Optimization**.
 - **Disk Cleanup** and **Event Logs** clearing.
+- **Downloads, Recent Files, Clipboard, DNS Cache, Icon Cache**, and **Registry** cleaning.
+- **Windows.old** removal, **Installer Cache**, **DoSVC Cache**, and **Old Drivers** cleanup.
 
 ### ⚡ Optimize
 - **RAM Optimizer:** Free up memory instantly.
@@ -43,16 +46,48 @@
 - **Disable Telemetry:** Stop Windows tracking.
 - **Disable Hibernation:** Free up disk space.
 - **Visual Effects:** Set to best performance.
+- **Clear Standby Memory:** Free up standby RAM.
+- **Disable Superfetch:** Stop SysMain service.
+- **Disable Power Throttling:** Improve CPU performance.
+
+### 🎮 Gaming (30 Optimizations)
+- Enable **Ultimate Performance** & **Game Mode**.
+- **GPU Priority** & **Hardware GPU Scheduling**.
+- Disable **Xbox Services, Game Bar, and Game DVR**.
+- Optimize **Network Priority** & Disable **Nagle's Algorithm**.
+- Kill **Bloat Processes** & Boost **VRAM**.
+- **Fullscreen Optimizations** disable.
+- **CPU Priority High** for gaming.
+- **Timer Resolution** optimization.
+- **MSI Mode** enable.
+- **VBS** disable.
+- **DirectPlay** enable.
+- **Background Apps** disable.
+- **Max FPS** unlock.
+- **Animations** & **Transparency** disable.
+- **DPC Latency** optimization.
+
+### 🎬 Editing
+- Optimize **GPU for Rendering**.
+- Disable **Game DVR for Editing**.
+- Set **High Priority** for Editing Apps.
+- Clean **Adobe/DaVinci/CapCut** Temp files.
 
 ### 🛠️ Tools
 - **Windows Update Control:** Block or Unblock Windows Updates.
 - **Defender Control:** Block or Unblock Windows Defender.
 - System Info, Task Manager, Control Panel, Registry Editor, Services, Device Manager.
 - **SFC Scan** and **DISM Repair**.
+- **Disk Management**, **Event Viewer**, **Resource Monitor**, **Performance Monitor**.
+- **System Restore** and **Create Restore Point**.
+- **Open CMD/PowerShell as Admin**.
+- **Windows Activation**.
+- **Startup Apps** manager.
 
 ### 🗑️ Remove Bloatware
 - Remove **Cortana, Xbox, OneDrive**, and 20+ Windows default apps.
 - Disable **Bing Search** and **Widgets**.
+- Remove **3D Viewer, Paint 3D, Mixed Reality, Office Hub, OneNote, Solitaire, Sticky Notes, Mail & Calendar, Groove Music, Movies & TV, Skype, Weather, News, Maps, Voice Recorder, People, Tips, Get Help, Alarms & Clock, Photos**.
 
 ---
 
@@ -115,11 +150,11 @@ Upgrade to **NEXO OPTIMIZER PRO** and unlock the full potential of your PC.
 
 | Dashboard | Clean Tab |
 | :---: | :---: |
-| ![Dashboard](https://i.ibb.co/HLH03N6v/dashboard.png) | ![Clean](https://via.placeholder.com/400x250/1a1a2e/ff006e?text=Clean+Tab+Screenshot) |
+| ![Dashboard](https://i.ibb.co/SXYwdpL2/dashboard.png) | ![Clean](https://i.ibb.co/gL91SS0Q/clean.png) |
 
-| Gaming Tab (PRO) | Tools Tab |
+| Tools Tab | Gaming Tab (PRO) |
 | :---: | :---: |
-| ![Gaming](https://via.placeholder.com/400x250/1a1a2e/06ffa5?text=Gaming+Tab+PRO) | ![Tools](https://via.placeholder.com/400x250/1a1a2e/ffb700?text=Tools+Tab+Screenshot) |
+| ![Tools](https://i.ibb.co/DHrgJhH6/tools.png) | ![Gaming](https://i.ibb.co/gbv1jrJ9/gaming.png) |
 
 *(Replace the placeholder images with actual screenshots of your app)*
 
